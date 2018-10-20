@@ -1,1 +1,1 @@
-# BudegetApp
+# BudgetApp
